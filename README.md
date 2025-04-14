@@ -2,14 +2,14 @@ TO DO:
 
 ## Setup & Configuration
 
-- [ ] Set up Prisma ORM
-- [ ] Create database schema
+- [x] Set up Prisma ORM
+- [x] Create database schema
 - [ ] Set up authentication using Supabase auth
 
 ## Backend implementation
 
 - [ ] Create Prisma client utility
-- [ ] Set up Supabase client
+- [x] Set up Supabase client
 - [ ] Implement user authentication
 - [ ] Create folder API endpoints
 - [ ] Create file API endpoints
